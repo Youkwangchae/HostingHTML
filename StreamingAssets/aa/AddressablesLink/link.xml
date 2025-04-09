@@ -2,6 +2,7 @@
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="AssetThumbnail" preserve="all" />
     <type fullname="Exoa.Effects.Outlinable" preserve="all" />
+    <type fullname="MeshMergerEditor" preserve="all" />
     <type fullname="Exoa.Effects.Outlinable/OutlineProperties" preserve="nothing" serialized="true" />
     <type fullname="Exoa.Effects.OutlineTarget" preserve="nothing" serialized="true" />
     <type fullname="Exoa.Effects.SerializedPass" preserve="nothing" serialized="true" />
